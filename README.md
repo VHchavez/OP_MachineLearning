@@ -1,4 +1,4 @@
-DFT + ML
+Keep it Cheap: Towards efficient CCSD(T) ENergies
 ==============================
 [//]: # (Badges)
 [![Travis Build Status](https://travis-ci.org/REPLACE_WITH_OWNER_ACCOUNT/DFT + ML.png)](https://travis-ci.org/REPLACE_WITH_OWNER_ACCOUNT/DFT + ML)
